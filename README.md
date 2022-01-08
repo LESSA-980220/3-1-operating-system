@@ -1,2 +1,2 @@
-# 3-1-operating-system
-semester 3-1 operating system
+# Operating System
+semester 3-1 Operating System
